@@ -1,2 +1,4 @@
-# Basic-Port-Scanner
-This basic python code helps to scan ports on a given IP.
+# Basic CYBER SECURITY TOOLS
+Metadata Extractor
+  Format: python3 file_metadata.py mydocument.pdf
+
